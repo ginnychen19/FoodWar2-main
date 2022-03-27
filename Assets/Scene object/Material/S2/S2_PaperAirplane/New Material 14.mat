@@ -129,12 +129,12 @@ Material:
     - _VertexColorsEnabled: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.8877359, b: 0.43867922, a: 1}
+    - _BaseColor: {r: 1, g: 0.84622645, b: 0.23113209, a: 1}
     - _Color: {r: 0.8962264, g: 0.8453247, b: 0.43543077, a: 1}
     - _ColorDim: {r: 0.31132078, g: 0.13656996, b: 0.13656996, a: 1}
     - _ColorDimCurve: {r: 0.85023, g: 0.85034, b: 0.85045, a: 0.85056}
     - _ColorDimExtra: {r: 0.85023, g: 0.85034, b: 0.85045, a: 0.85056}
-    - _ColorDimSteps: {r: 0.5660378, g: 0.120149545, b: 0.120149545, a: 1}
+    - _ColorDimSteps: {r: 0.3301887, g: 0.20403169, b: 0.20403169, a: 1}
     - _ColorGradient: {r: 0.85023, g: 0.85034, b: 0.85045, a: 0.85056}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FlatRimColor: {r: 0.85023, g: 0.85034, b: 0.85045, a: 0.85056}
